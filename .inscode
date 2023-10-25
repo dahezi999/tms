@@ -1,4 +1,4 @@
-run = "mvn tms:run"
+run = "mvn spring-boot:run"
 language = "java"
 
 [debugger]
