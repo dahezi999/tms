@@ -1,4 +1,4 @@
-run = "javac Main.java && java Main"
+run = "mvn tms:run"
 language = "java"
 
 [debugger]
